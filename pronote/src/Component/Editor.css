@@ -1,0 +1,37 @@
+body {
+    background-color: #2D46B9;
+}
+
+.input {
+    position: absolute;
+    left: 5%;
+}
+
+.input-text {
+    left: 5%;
+    background-color: #2D46B9;
+    position: absolute;
+    color: white;
+    width: 500px;
+    height: 300px;
+    border: 2.5px solid black;
+}
+
+.output {
+    position: relative;
+    right: 5%;
+}
+
+.head {
+    color: chartreuse;
+}
+
+.output-text {
+    color: white;
+    position: absolute;
+    right: 5%;
+    background-color: #444444;
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+}
